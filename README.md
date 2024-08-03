@@ -1,4 +1,6 @@
-<p aling= center><a href="https://github.com/Mectoche/MT.TOKEN"><img src="https://i.ibb.co/rfQvbL6/website-token.png" alt="MT_TOKEN" border="0"></a></p>
+<p align="center">
+<a href="https://github.com/Mectoche/MT.TOKEN"><img src="https://i.ibb.co/rfQvbL6/website-token.png" alt="watching" border="0"></a>
+</p>
 
 # MT TOKEN_WEBSITE
 - Site que complementa o [Mectoche_Token](https://github.com/Mectoche/Mectoche_Token)
